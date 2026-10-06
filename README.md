@@ -25,15 +25,23 @@ autonomous mission functions.
 
 ### 🚀 Major Projects & Highlighted Work
 
-*   **Model Satellite Project (Teknofest)** 📡
-    *   *Role:* Team Captain & Integration Lead
-    *   *Description:* Managing a 5-member team to design and build a fully functional model satellite. Overseas payload/carrier mechanics, telemetry communication systems, and ground station integration.
-    *   *Tech:* STM32, C, Python (Ground Station interface), RF Communication.
+*   **TÜRKSAT Model Satellite Competition** 📡
+    *   *Role:* Team Captain (2025 – 2026)
+    *   *Description:* Led hardware and software development activities for a CanSat system with autonomous separation and controlled landing capabilities. Coordinated ÖTR and KTR processes in accordance with a systems-engineering approach. Worked on payload systems and real-time telemetry design, including sensor-fusion algorithms on the mission computer. Implemented/ integrated RF communication for telemetry packet transmission to the ground station and contributed to power-distribution subsystem integration.
+    *   *Tech:* STM32, Microcontroller Autonomous Logic, Sensor-Fusion Algorithms, RF Communication, Aerodynamic Landing Calculations.
 
-*   **Signal Processing & System Modeling** 📊
-    *   Custom implementations and simulations analyzing system stability, filters, and operational amplifiers. 
+*   **STM32-Based Remote Controller for an Unmanned Aerial Vehicle** 🎮
+    *   *Role:* Embedded Software Developer (2026)
+    *   *Description:* Developed a prototype remote controller based on an STM32F407VG microcontroller and a wireless communication interface. Developed low-level embedded software in C for an ARM Cortex-M4 platform using HAL. Read analog joystick signals through ADC channels and converted them into digital flight commands. Integrated HC-05 wireless communication over UART and an LCD interface over I2C.
+    *   *Tech:* C, STM32F407VG, ARM Cortex-M4, HAL, ADC, HC-05 (UART), LCD (I2C).
+
+*   **Single- and Multi-Stage BJT-Based Audio Amplifier Design** 🔌
+    *   *Role:* Hardware Design & Simulation (2024 – 2025)
+    *   *Description:* Designed single-stage common-emitter and multi-stage amplifier topologies including a Darlington pair and Class-AB push-pull output stage. Performed theoretical DC biasing and AC small-signal gain calculations. Simulated circuits and frequency response in Proteus before physical implementation. Built and tested prototypes on breadboard, then soldered the validated designs onto perfboard. Gained practical experience with Q-point stabilization, impedance matching, and hardware debugging.
+    *   *Tech:* Proteus, BJT, Darlington Pair, Class-AB Push-Pull, Q-point Stabilization, Impedance Matching.
 
 ---
+
 
 ### 📫 Connect with Me
 
