@@ -1,8 +1,10 @@
 # Hi there, I'm Efe! 👋
 
-I am a third-year Electrical and Electronics Engineering student passionate about bridging the gap between hardware and software. As a team captain, I thrive on solving complex system-level problems, managing multi-disciplinary engineering projects, and building reliable, real-world systems from scratch. 
-
-Outside of engineering equations and laboratory breadboards, I love diving into deep learning concepts and exploring open-source hardware developments.
+Electrical and Electronics Engineering student at Kırıkkale University, expected to graduate in 2027, with hands-on experience in
+electrical project design, solar PV systems, circuit design, embedded systems, and microcontroller-based projects. Experienced
+with AutoCAD, Proteus, STM32, Embedded C, ADC, UART, I2C, and basic PCB design using Altium and KiCad. Led technical work
+for a TÜRKSAT Model Satellite competition team, focusing on telemetry, sensor fusion, RF communication, power distribution, and
+autonomous mission functions.
 
 ---
 
